@@ -1,0 +1,12 @@
+{
+  "downloadDir": "./xsite-downloads",
+  "includePathRegex": ["Week\\s+\\d+", "E[- ]?Learning"],
+  "excludePathRegex": [],
+  "courses": [
+    {
+      "code": "MODULE_CODE",
+      "name": "Course name shown in xSiTe",
+      "homeUrl": "https://xsite.singaporetech.edu.sg/d2l/home/COURSE_ID"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "xsite-weekly-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Download newly released weekly xSiTe/Brightspace course files.",
+  "type": "commonjs",
+  "scripts": {
+    "download": "node download-xsite.js --config xsite-courses.json",
+    "list-courses": "node download-xsite.js --list-courses --headed",
+    "install-browser": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.53.0"
+  }
+}

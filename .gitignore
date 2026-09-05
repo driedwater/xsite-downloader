@@ -1,0 +1,15 @@
+# credentials / browser session
+.env
+.env.*
+.auth/
+
+# downloads and local output
+xsite-downloads/
+*.log
+
+# dependencies
+node_modules/
+
+# OS/editor
+.DS_Store
+Thumbs.db

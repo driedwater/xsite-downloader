@@ -1,0 +1,32 @@
+{
+  "downloadDir": "./xsite-downloads",
+  "includePathRegex": ["Week\\s+\\d+", "E[- ]?Learning"],
+  "excludePathRegex": [],
+  "courses": [
+    {
+      "code": "INF2001",
+      "name": "INF2001-Introduction to Software Engineering [2026/27 T1]",
+      "homeUrl": "https://xsite.singaporetech.edu.sg/d2l/home/213441"
+    },
+    {
+      "code": "INF2002",
+      "name": "INF2002-Human Computer Interaction [2026/27 T1]",
+      "homeUrl": "https://xsite.singaporetech.edu.sg/d2l/home/213442"
+    },
+    {
+      "code": "INF2004",
+      "name": "INF2004-Embedded Systems Programming [2026/27 T1]",
+      "homeUrl": "https://xsite.singaporetech.edu.sg/d2l/home/213443"
+    },
+    {
+      "code": "INF2003",
+      "name": "INF2003-Database Systems [2026/27 T1]",
+      "homeUrl": "https://xsite.singaporetech.edu.sg/d2l/home/213446"
+    },
+    {
+      "code": "UDE2222",
+      "name": "UDE2222-Design Innovation [2026/27 T1]",
+      "homeUrl": "https://xsite.singaporetech.edu.sg/d2l/home/21429"
+    }
+  ]
+}
