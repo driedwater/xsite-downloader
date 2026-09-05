@@ -1,6 +1,6 @@
 {
-  "downloadDir": "./xsite-downloads",
-  "includePathRegex": ["Week\\s+\\d+", "E[- ]?Learning"],
+  "downloadDir": "update this",
+  "includePathRegex": [],
   "excludePathRegex": [],
   "courses": [
     {
@@ -26,7 +26,7 @@
     {
       "code": "UDE2222",
       "name": "UDE2222-Design Innovation [2026/27 T1]",
-      "homeUrl": "https://xsite.singaporetech.edu.sg/d2l/home/21429"
+      "homeUrl": "https://xsite.singaporetech.edu.sg/d2l/home/214293"
     }
   ]
 }
